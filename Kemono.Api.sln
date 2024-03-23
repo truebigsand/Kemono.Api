@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kemono.Api", "Kemono.Api\Kemono.Api.csproj", "{618F3E9B-9CD2-4EB5-8CA5-9B17A92690DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kemono.Api.ConsoleTest", "Kemono.Api.ConsoleTest\Kemono.Api.ConsoleTest.csproj", "{A0A77C39-8A73-4A9A-A810-CB70D1622F67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618F3E9B-9CD2-4EB5-8CA5-9B17A92690DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618F3E9B-9CD2-4EB5-8CA5-9B17A92690DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618F3E9B-9CD2-4EB5-8CA5-9B17A92690DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618F3E9B-9CD2-4EB5-8CA5-9B17A92690DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A77C39-8A73-4A9A-A810-CB70D1622F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A77C39-8A73-4A9A-A810-CB70D1622F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A77C39-8A73-4A9A-A810-CB70D1622F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A77C39-8A73-4A9A-A810-CB70D1622F67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {104A17F6-9D04-43D8-94FF-90E835A021F1}
+	EndGlobalSection
+EndGlobal
